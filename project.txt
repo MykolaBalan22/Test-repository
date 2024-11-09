@@ -2,3 +2,5 @@ text for merge commit
 
 add text for rebase
 
+add third line text
+
