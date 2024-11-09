@@ -1,1 +1,4 @@
 text for merge commit
+
+add text for rebase
+
