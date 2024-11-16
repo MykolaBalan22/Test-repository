@@ -1,4 +1,5 @@
 text bontoy
 text 1
 text 2
-
+text for new branch
+deal merge conflict
